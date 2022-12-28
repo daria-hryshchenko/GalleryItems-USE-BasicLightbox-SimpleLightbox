@@ -31,14 +31,14 @@ function modalImg(event) {
         return;
     }
 
-    let gallery = new SimpleLightbox('.gallery a', {
-        captionSelector: ".gallery__image",
-        captionsData: "alt",
-        captionDelay: 250,
-    });
-
-    gallery.on('error.simplelightbox', function (e) {
-        console.log(e);
-    });
-
 };
+
+let gallery = new SimpleLightbox('.gallery a', {
+    captionSelector: ".gallery__image",
+    captionsData: "alt",
+    captionDelay: 250,
+});
+
+gallery.on('error.simplelightbox', function (e) {
+    console.log(e);
+});
