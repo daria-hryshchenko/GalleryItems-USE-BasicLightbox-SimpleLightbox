@@ -1,3 +1,5 @@
+![first screen](https://github.com/daria-hryshchenko/GalleryItems-USE-BasicLightbox-SimpleLightbox/blob/main/image_gallery.png)
+
 Homework 📚
 
 ✔️ Improve My HTML, CSS and JS Skills
@@ -9,4 +11,4 @@ Homework 📚
 ✔️ Created two different image galleries use libraries [BasicLightbox](https://basiclightbox.electerious.com) and [SimpleLightbox](https://simplelightbox.com)
 
 
-![first screen](https://daria-hryshchenko.github.io/GalleryItems-USE-BasicLightbox-SimpleLightbox/02-lightbox.html)
+
