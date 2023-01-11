@@ -9,4 +9,4 @@ Homework 📚
 ✔️ Created two different image galleries use libraries [BasicLightbox](https://basiclightbox.electerious.com) and [SimpleLightbox](https://simplelightbox.com)
 
 
-![](https://daria-hryshchenko.github.io/GalleryItems-USE-BasicLightbox-SimpleLightbox/02-lightbox.html)
+![first screen](https://daria-hryshchenko.github.io/GalleryItems-USE-BasicLightbox-SimpleLightbox/02-lightbox.html)
